@@ -1,0 +1,12 @@
+/.s3cfg
+/.s3cfg.py
+/clouds.yml
+/dispatch_node.py
+/Dockerfile
+/html2jsonUp.py
+/multiprocessing_html2json_updates.py
+/obj.py
+/parallel_html2json.py
+/template.json
+/_proxy.py
+/__pycache__
